@@ -11,11 +11,13 @@ Perspicacious question! Here's some use cases:
 
 And here's some eye candy to get you hooked:
 
-![](https://github.com/Cy-r0/gif_snapshot/blob/master/media/30-03-20_151350.gif)
-![](https://github.com/Cy-r0/gif_snapshot/blob/master/media/30-03-20_152432.gif)
 ![](https://github.com/Cy-r0/gif_snapshot/blob/master/media/30-03-20_153006.gif)
+Perfect landing in Elite Dangerous
+![](https://github.com/Cy-r0/gif_snapshot/blob/master/media/01-04-20_163127.gif)
+How to google stuff
+![](https://github.com/Cy-r0/gif_snapshot/blob/master/media/01-04-20_101432.gif)
+"Only the best rally game ever made"
 
-(game: Elite Dangerous)
 
 ## How do I get it?
 Here's the step-by-step instructions to get it running (WARNING, this is for **Windows 10** only):
