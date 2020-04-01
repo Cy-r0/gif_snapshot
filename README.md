@@ -9,11 +9,13 @@ Perspicacious question! Here's some use cases:
 - You're playing a space sim with your new friend and he has no idea where to find his orbital flight controls among the 34 nested menus. Send him a GIF snapshot, then yell at him!
 - You're playing a game riddled with technical bugs, your co-op mate is waiting for you to activate the Mega Tower but for some reason you can't find it. Send him a GIF snapshot and find out that the tower does NOT show up in your game instance!
 
-And here's some eye candy:
+And here's some eye candy to get you hooked:
 
 ![](https://github.com/Cy-r0/gif_snapshot/blob/master/media/30-03-20_151350.gif)
 ![](https://github.com/Cy-r0/gif_snapshot/blob/master/media/30-03-20_152432.gif)
 ![](https://github.com/Cy-r0/gif_snapshot/blob/master/media/30-03-20_153006.gif)
+
+(game: Elite Dangerous)
 
 ## How do I get it?
 Here's the step-by-step instructions to get it running (WARNING, this is for **Windows 10** only):
