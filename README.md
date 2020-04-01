@@ -25,7 +25,8 @@ How to google stuff
 
 
 ## How do I get it?
-Here's the step-by-step instructions to get it running (WARNING, this is for **Windows 10** only):
+Here's the step-by-step instructions to get it running (WARNING, this has been tested on **Windows 10** only):
+
 
 - Install **imagemagick** for Windows from [here](https://imagemagick.org/script/download.php#windows);
 - Clone this repository by entering `git clone https://github.com/Cy-r0/gif_snapshot/` in your terminal, or just press the green button that says "Clone or Download" in the top-right corner of the Github page and download a .zip if you don't know what a terminal is. You can put this repository in any folder you like;
