@@ -63,7 +63,7 @@ TakeScreenshot:
         ; CREATE GIF
         IfNotExist, %A_ScriptDir%\gifs
             FileCreateDir, %A_ScriptDir%\gifs
-        FormatTime, CurrentDateTime, , dd-MM-yy_HHmmss
+        FormatTime, CurrentDateTime, , yyyy-MM-dd_HHmmss
         RunWait, %comspec% /c "magick convert -depth 5 -delay %magickdelay% temp_snaps/snap*.bmp gifs/%CurrentDateTime%.gif", , Hide
 
         ; EMPTY TEMPORARY DIR
