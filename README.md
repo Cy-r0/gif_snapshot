@@ -51,4 +51,4 @@ Also also, if you have a **21:9 monitor**, the script **will cut away the side b
 
 
 ## Acknowledgements
-Sincere thanks to tic (Tariq Porter) for his most excellent AutoHotKey GDI+ Library (ahkscript.org/boards/viewtopic.php?t=6517).
+Sincere thanks to tic (Tariq Porter) for his most excellent AutoHotKey GDI+ Library ([https://www.autohotkey.com/boards/viewtopic.php?t=6517](https://www.autohotkey.com/boards/viewtopic.php?t=6517)).
