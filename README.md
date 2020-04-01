@@ -21,7 +21,7 @@ How to google stuff
 
 ![](https://github.com/Cy-r0/gif_snapshot/blob/master/media/01-04-20_101432.gif)
 
-"Only the best rally game ever made"
+"Only the best rally game ever made" - Mr T.
 
 
 ## How do I get it?
